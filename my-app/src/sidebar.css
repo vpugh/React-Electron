@@ -1,0 +1,19 @@
+.Sidebar {
+  width: 250px;
+  background-color: #61dafb;
+  height: 100%;
+  position: fixed;
+}
+
+.Sidebar-Container {
+    padding: 20px;
+}
+
+.Sidebar-Container ul {
+    padding: 0;
+    margin: 0;
+}
+
+.Sidebar-Container li {
+    list-style: none;
+}
